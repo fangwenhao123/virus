@@ -1,7 +1,5 @@
 [
   {
-    "module": "module1",
-    "option1": "value1",
-    "option2": "value2"
+    "module": "module1"
   }
 ]
