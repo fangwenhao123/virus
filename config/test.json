@@ -1,6 +1,17 @@
-{
-  "name": "fangwenhao",
-  "number": "20211644",
-  "class": "2021252",
-  "IDnumber": "310110200307065616"
-}
+[
+  {
+    "module": "module1",
+    "option1": "value1",
+    "option2": "value2"
+  },
+  {
+    "module": "module2",
+    "option1": "value3",
+    "option2": "value4"
+  },
+  {
+    "module": "module3",
+    "option1": "value5",
+    "option2": "value6"
+  }
+]
